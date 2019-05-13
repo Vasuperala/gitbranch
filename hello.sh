@@ -12,5 +12,5 @@ function hello()
   echo hello functions 
 }
 
-#hello
+hello
 
