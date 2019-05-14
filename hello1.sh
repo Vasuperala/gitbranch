@@ -9,7 +9,7 @@ then
 } fi
 function hello()
 {  
-  echo hello functions1 
+  echo hello functions2 
 }
 
 hello
